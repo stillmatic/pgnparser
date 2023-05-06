@@ -26,6 +26,7 @@ setup(
     long_description=long_description,
     url = 'http://renatopp.com/pgnparser',
     download_url = 'https://github.com/renatopp/pgnparser',
+    install_requires = ['rure'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: MacOS X',
